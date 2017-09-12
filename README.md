@@ -12,16 +12,14 @@ However, there is still hope deeply inside his heart.
 Try not to be beaten by desperation in the dream.
 At the meanwhile, get more hope to extend your vision and determination which can get you go through the tragic night.
 
-Use WASD or arrow key to control the man.
-
-M/m can stop the music and sound effects. 
+Use WASD or arrow key to control the man. M/m can stop the music and sound effects. 
 
 # Participants
 I didn't write it all by myself. Thanks to my partners:
 
 Chi-Yu Wu (https://www.facebook.com/chiyu.wu.71), art and audio part, move control and other support. My best friend and partner.
 
-Leo Lian (https://www.facebook.com/leo830121), game design and our consultant. Soul of our team.
+Leo Lian (https://www.facebook.com/leo830121), game design and our consultant. Game tester. Soul of our team.
 
 
 # References
