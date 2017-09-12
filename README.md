@@ -1,6 +1,11 @@
 # js13k2017
 A game for the js13kGame competition. Use HTML, CSS and JavaScript to do the whole game.
 
+# Deep Inside
+Game URL: wair for upload to the js13k website.
+
+
+
 # Participants
 I didn't write it all by myself. Thanks to my partners:
 
@@ -16,7 +21,7 @@ Sound and music : Tiny Music (https://github.com/kevincennis/TinyMusic)
 
 Font : Pixel Font (https://github.com/PaulBGD/PixelFont)
 
-compression for PNG images : Tiny PNG (https://tinypng.com/)
+Compression for PNG images : Tiny PNG (https://tinypng.com/)
 
 HTML and CSS Minifier : miniMinifier(https://github.com/xem/miniMinifier/)
 
