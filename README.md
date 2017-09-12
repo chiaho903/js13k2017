@@ -17,7 +17,7 @@ Use WASD or arrow key to control the man. M/m can stop the music and sound effec
 # Participants
 I didn't write it all by myself. Thanks to my partners:
 
-Chi-Yu Wu (https://www.facebook.com/chiyu.wu.71), art and audio part, move control and other support. My best friend and partner.
+Chi-Yu Wu (https://www.facebook.com/chiyu.wu.71), art and audio part, move control and other support. My best friend.
 
 Leo Lian (https://www.facebook.com/leo830121), game design and our consultant. Game tester. Soul of our team.
 
