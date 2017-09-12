@@ -4,7 +4,17 @@ A game for the js13kGame competition. Use HTML, CSS and JavaScript to do the who
 # Deep Inside
 Game URL: wair for upload to the js13k website.
 
+You will play a role of a man who just feels desperate about everything around him.
+Every night he suffers from great nightmare and wants to end his life.
 
+This night may be the last night of him.
+However, there is still hope deeply inside his heart.
+Try not to be beaten by desperation in the dream.
+At the meanwhile, get more hope to extend your vision and determination which can get you go through the tragic night.
+
+Use WASD or arrow key to control the man.
+
+M/m can stop the music and sound effects. 
 
 # Participants
 I didn't write it all by myself. Thanks to my partners:
@@ -28,3 +38,5 @@ HTML and CSS Minifier : miniMinifier(https://github.com/xem/miniMinifier/)
 JavaScript Minifier : JavaScript Minifier(https://javascript-minifier.com/)
 
 Zip file recompressor : ADVZIP (http://www.advancemame.it/)
+
+Music based on Beethoven's Moonlight Sonata (https://www.youtube.com/watch?v=-WE7uvRzCGk)
