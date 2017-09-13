@@ -1,5 +1,5 @@
 # js13k2017
-A game for the js13kGame competition. Use HTML, CSS and JavaScript to do the whole game.
+A game for the js13kGame competition. Use HTML, CSS and JavaScript to make the whole game.
 
 # Deep Inside
 Game URL: wait for upload to the js13k website.
@@ -19,7 +19,7 @@ I didn't write it all by myself. Thanks to my partners:
 
 Chi-Yu Wu (https://www.facebook.com/chiyu.wu.71), art and audio part, move control and other support. My best friend.
 
-Leo Lian (https://www.facebook.com/leo830121), game design and our consultant. Game tester. Soul of our team.
+Yi-Hsiang Lien (https://www.facebook.com/leo830121), game design and our consultant. Game tester. Soul of our team.
 
 
 # References
