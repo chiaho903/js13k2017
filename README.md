@@ -2,7 +2,7 @@
 A game for the js13kGame competition. Use HTML, CSS and JavaScript to make the whole game.
 
 # Deep Inside
-Game URL: wait for upload to the js13k website.
+Game URL: https://js13kgames.com/entries/deep-inside
 
 You will play a role of a man who just feels desperate about everything around him.
 Every night he suffers from great nightmare and wants to end his life.
